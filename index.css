@@ -1,0 +1,56 @@
+#search {
+    text-align: center;
+    margin: 100px;
+    padding: 110px 260px 110px 260px;
+}
+
+.navBar {
+    text-align: right;
+    margin: 10px;
+}
+
+.topBtn {
+    padding: 5px;
+}
+
+#searchBox {
+    width: 500px;
+    height:40px;
+    margin: 25px;
+    border-radius: 25px;
+    border: 1px solid lightgray;
+}
+
+#searchBox:hover {
+    outline:none !important;
+    border: 1px solid darkgrey;
+}
+
+#searchBox:focus {
+    outline:none !important;
+    border: 1px solid darkgrey;
+}
+
+#logo {
+    width: 230px;
+    right: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.Btn {
+    width: 140px;
+    height:40px;
+    padding:2px;
+    margin: 4px;
+    font-size: small;
+    border: none;
+    border-radius: 5px;
+    color: dimgrey;
+    outline:none !important;
+}
+
+a.luckyBtn {
+    font-family: sans-serif;
+    background-color: aqua;
+}
